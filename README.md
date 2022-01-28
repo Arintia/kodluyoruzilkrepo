@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-![GitHub foto](/image.png "GitHub foto")
+![GitHub foto](https://cdn.discordapp.com/attachments/578568359524696065/936734000620376164/unknown.png "GitHub foto")
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
